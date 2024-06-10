@@ -37,7 +37,7 @@
 
 - 🌱 I’m currently learning at **DYPCET**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Lahu19's workspace](https://portfolio-web-57wo-2adifc61r-lahu19s-projects.vercel.app/)
 
 - 💬 Ask me about **Java, Python, PHP, ReactJS and NodeJS**
 
