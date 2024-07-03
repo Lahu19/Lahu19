@@ -46,6 +46,7 @@
 - 📄 Know about my experiences [my experiences](https://drive.google.com/file/d/1UPAH0zyyQwufwGxtVsHSgL7KGbkj6a19/view)
 
 - ⚡ Fun fact **I think I'm funny**
+<p align="right" > My <a href="https://portfolio-web-57wo-2adifc61r-lahu19s-projects.vercel.app/">Portfolio</a></p>
 
 <br>
 <h3 align="left">Connect with me:</h3>
